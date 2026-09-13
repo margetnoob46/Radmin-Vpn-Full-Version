@@ -239,4 +239,4 @@ This repository serves as the official landing page for Radmin VPN. The software
 **Get the most recent version of Radmin VPN today!**
 
 ---
-**Last updated:** 2026-09-13 19:01:55 UTC
+**Last updated:** 2026-09-13 21:52:02 UTC
